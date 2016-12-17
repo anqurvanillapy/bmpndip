@@ -1,0 +1,23 @@
+{
+  "name": "bmpndip",
+  "version": "0.1.0",
+  "description": "BMP file format & digital image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anqurvanillapy/bmpndip.git"
+  },
+  "keywords": [
+    "dip",
+    "bmp"
+  ],
+  "author": "AnqurVanillapy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anqurvanillapy/bmpndip/issues"
+  },
+  "homepage": "https://github.com/anqurvanillapy/bmpndip#readme"
+}
